@@ -1,9 +1,0 @@
----
-title: Test post
-author: Sam
-date: '2018-09-19'
-slug: test-post
-categories:
-  - R
-tags: []
----
