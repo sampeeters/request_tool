@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reports on Online VFE request tool</title>
+    <link>/reports/</link>
+    <description>Recent content in Reports on Online VFE request tool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/reports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Report on vertical flight efficiency during climb and descent for EGLL until August 2018</title>
+      <link>/reports/report_egll_082018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reports/report_egll_082018/</guid>
+      <description>VFE results for EGLL up to and including August 2018.</description>
+    </item>
+    
+    <item>
+      <title>Report on vertical flight efficiency during climb and descent for ENGM until August 2018</title>
+      <link>/reports/report_engm_082018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/reports/report_engm_082018/</guid>
+      <description>VFE results for ENGM up to and including August 2018.</description>
+    </item>
+    
+  </channel>
+</rss>
