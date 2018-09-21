@@ -6,26 +6,36 @@
     <description>Recent content in Reports on Online VFE request tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/reports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Report on vertical flight efficiency during climb and descent for EGLL until August 2018</title>
-      <link>/reports/report_egll_082018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Report on vertical flight efficiency during climb and descent for EVRA until June 2018</title>
+      <link>/reports/report_evra_082018/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/reports/report_egll_082018/</guid>
-      <description>VFE results for EGLL up to and including August 2018.</description>
+      <guid>/reports/report_evra_082018/</guid>
+      <description>VFE results for EVRA up to and including June 2018.</description>
     </item>
     
     <item>
-      <title>Report on vertical flight efficiency during climb and descent for ENGM until August 2018</title>
+      <title>Report on vertical flight efficiency during climb and descent for EGLL until April 2018</title>
+      <link>/reports/report_egll_082018/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/reports/report_egll_082018/</guid>
+      <description>VFE results for EGLL up to and including April 2018.</description>
+    </item>
+    
+    <item>
+      <title>Report on vertical flight efficiency during climb and descent for ENGM until April 2018</title>
       <link>/reports/report_engm_082018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/reports/report_engm_082018/</guid>
-      <description>VFE results for ENGM up to and including August 2018.</description>
+      <description>VFE results for ENGM up to and including April 2018.</description>
     </item>
     
   </channel>
